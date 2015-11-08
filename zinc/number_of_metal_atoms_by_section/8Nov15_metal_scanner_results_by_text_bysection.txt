@@ -1,0 +1,8 @@
+metal_name
+ZN
+All files in the database:
+113146
+Files with metal in HET:
+10394
+Files with metal in HETATM:
+9168
