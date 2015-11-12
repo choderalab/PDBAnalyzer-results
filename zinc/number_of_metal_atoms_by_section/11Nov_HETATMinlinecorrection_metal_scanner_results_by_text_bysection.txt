@@ -1,0 +1,54 @@
+metal_name
+ZN
+All files in the database:
+113146
+HET not contained within HETATM:
+12
+HETATM not contained within HET:
+28
+HET without HETATM files:
+Number:
+12
+/cbio/jclab/share/pdb/hb/pdb1hbm.ent.gz
+/cbio/jclab/share/pdb/hb/pdb1hbn.ent.gz
+/cbio/jclab/share/pdb/hb/pdb1hbo.ent.gz
+/cbio/jclab/share/pdb/hb/pdb1hbu.ent.gz
+/cbio/jclab/share/pdb/ll/pdb4llf.ent.gz
+/cbio/jclab/share/pdb/ua/pdb4uam.ent.gz
+/cbio/jclab/share/pdb/oj/pdb4oj5.ent.gz
+/cbio/jclab/share/pdb/oj/pdb4oj6.ent.gz
+/cbio/jclab/share/pdb/oj/pdb4ojl.ent.gz
+/cbio/jclab/share/pdb/oj/pdb4ojo.ent.gz
+/cbio/jclab/share/pdb/oj/pdb4ojp.ent.gz
+/cbio/jclab/share/pdb/wj/pdb4wjb.ent.gz
+HETATM without HET files:
+Number:
+28
+/cbio/jclab/share/pdb/as/pdb3ase.ent.gz
+/cbio/jclab/share/pdb/b1/pdb2b10.ent.gz
+/cbio/jclab/share/pdb/b1/pdb2b11.ent.gz
+/cbio/jclab/share/pdb/b1/pdb2b12.ent.gz
+/cbio/jclab/share/pdb/i5/pdb1i54.ent.gz
+/cbio/jclab/share/pdb/i5/pdb1i55.ent.gz
+/cbio/jclab/share/pdb/in/pdb2in4.ent.gz
+/cbio/jclab/share/pdb/k7/pdb2k78.ent.gz
+/cbio/jclab/share/pdb/m6/pdb1m60.ent.gz
+/cbio/jclab/share/pdb/u7/pdb1u74.ent.gz
+/cbio/jclab/share/pdb/u7/pdb1u75.ent.gz
+/cbio/jclab/share/pdb/z9/pdb2z9j.ent.gz
+/cbio/jclab/share/pdb/z9/pdb2z9k.ent.gz
+/cbio/jclab/share/pdb/z9/pdb2z9l.ent.gz
+/cbio/jclab/share/pdb/yg/pdb1ygd.ent.gz
+/cbio/jclab/share/pdb/b0/pdb2b0z.ent.gz
+/cbio/jclab/share/pdb/bc/pdb2bcn.ent.gz
+/cbio/jclab/share/pdb/ml/pdb1ml2.ent.gz
+/cbio/jclab/share/pdb/mx/pdb4mxk.ent.gz
+/cbio/jclab/share/pdb/mx/pdb4mxl.ent.gz
+/cbio/jclab/share/pdb/n7/pdb4n7l.ent.gz
+/cbio/jclab/share/pdb/n7/pdb4n7k.ent.gz
+/cbio/jclab/share/pdb/om/pdb4omf.ent.gz
+/cbio/jclab/share/pdb/rj/pdb3rjn.ent.gz
+/cbio/jclab/share/pdb/zu/pdb2zu2.ent.gz
+/cbio/jclab/share/pdb/zt/pdb2ztx.ent.gz
+/cbio/jclab/share/pdb/xu/pdb1xuf.ent.gz
+/cbio/jclab/share/pdb/xu/pdb1xuj.ent.gz
