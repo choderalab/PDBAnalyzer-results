@@ -1,0 +1,6 @@
+All files analyzed:
+113324
+All files in the database:
+113324
+Files containing ZN: 
+10446
